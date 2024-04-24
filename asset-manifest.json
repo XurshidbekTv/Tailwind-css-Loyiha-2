@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Tailwind-css-Loyiha-2/static/css/main.170c7c0a.css",
+    "main.js": "/Tailwind-css-Loyiha-2/static/js/main.841e4afc.js",
+    "static/media/laptop.jpg": "/Tailwind-css-Loyiha-2/static/media/laptop.45ddf500e572fb2f1d35.jpg",
+    "static/media/single.png": "/Tailwind-css-Loyiha-2/static/media/single.20196aa3e7e7fa48f8f7.png",
+    "static/media/double.png": "/Tailwind-css-Loyiha-2/static/media/double.8be045e6bb88be63d414.png",
+    "static/media/triple.png": "/Tailwind-css-Loyiha-2/static/media/triple.4eb8f19f4b4647321484.png",
+    "index.html": "/Tailwind-css-Loyiha-2/index.html",
+    "main.170c7c0a.css.map": "/Tailwind-css-Loyiha-2/static/css/main.170c7c0a.css.map",
+    "main.841e4afc.js.map": "/Tailwind-css-Loyiha-2/static/js/main.841e4afc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.170c7c0a.css",
+    "static/js/main.841e4afc.js"
+  ]
+}
